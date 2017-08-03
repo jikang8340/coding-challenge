@@ -4,7 +4,7 @@
   <style>
     body {
       text-align: center;
-      background: url("http://2.bp.blogspot.com/-VpD1uvHe0-Q/Tu5o3VWEOvI/AAAAAAAACPg/yUbnwWqzT8s/s1600/1+elegant.jpg");
+      background: gray;
       background-size: cover;
       background-position: center;
       color: white;
